@@ -1,0 +1,9 @@
+{
+  "name": "almond-event-manager",
+  "version": "1.0.0",
+  "description": "Almond event manager",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mashafrancis/almond-event-manager.git",
+  "author": "Francis Masha <francismasha96@gmail.com>",
+  "license": "MIT"
+}
